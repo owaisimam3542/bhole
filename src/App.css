@@ -1,0 +1,32 @@
+.App {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  font-family: sans-serif;
+  background: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.chat-form input,
+.chat-form textarea {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: purple;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.response {
+  margin-top: 20px;
+  background: #e2e2ff;
+  padding: 15px;
+  border-radius: 8px;
+}
